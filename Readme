@@ -1,2 +1,6 @@
-# Marketing-Analytics-Tableau
+# Disaster-Analysis-Tableau
 The objective of this exercise is to use data visualization to find out top 4 natural disasters impacting a corporation in the energy industry. As a part of this exercise we will also create multi maps (also known as Trellis charts or Panel charts) using Tableau. The dataset that will be used for this exercise contains list of natural disasters (Flood, Hurricane etc.) that occurred in the USA between the years of 2004 to 2015(data source FEMA).
+
+# Marketing-Analytics-Tableau
+ The data set is from the World Bank, collected as part of a pilot study on the feasibility of crowd-sourced price data collection. Price data was collected by non-professionals for thirty specific food items across several months in eight countries. The Excel file contains geographic data (city and country), time data (date of observation), product information (name, quantity) and price (standardized quantities, prices converted to comparable currency).
+
